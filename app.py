@@ -1,7 +1,7 @@
 import os
 import tempfile
 
-import chromadb
+import chromadb 
 import ollama
 import streamlit as st
 from chromadb.utils.embedding_functions.ollama_embedding_function import (
